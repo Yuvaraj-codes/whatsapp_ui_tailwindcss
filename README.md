@@ -1,2 +1,2 @@
 # whatsapp_ui_tailwindcss
-I have ccreated using tailwindscss-whatsapp_ui
+I have created using tailwindscss-whatsapp_ui
